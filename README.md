@@ -17,8 +17,6 @@
 </h2>
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
-# Rini_Udayanilavan
-My Personal repository
 # Hi there! I'm Rini 👋
 I'm a passionate data science student and aspiring machine learning engineer, dedicated to transforming complex data into meaningful insights. With a strong foundation in programming, statistical analysis, and machine learning techniques, I'm continuously exploring innovative ways to solve real-world problems through data.
 
@@ -100,3 +98,12 @@ I'm a passionate data science student and aspiring machine learning engineer, de
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rini95&repo=Tableau-Project)]
 - Created interactive dashboard using Tableau on how electric vehicle (EV) adoption trends, focusing on total vehicles, model year distribution, manufacturer statistics, CAFV (Clean Alternative Fuel Vehicle) eligibility, and state-wise distribution
 - Real-time data processing and visualization
+
+🤝 Connect With Me</h2>
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/rini-udayanilavan/"><img src="/Assets/Linkedin.gif" width="100"/></a>
+    <a href="mailto:riniudayanilavan@gmail.com"><img src="/Assets/Gmail.gif" width="100"/></a>
+<div align="center">
+    <i>"The best way to predict the future is to create it."</i> - Peter Drucker
+
